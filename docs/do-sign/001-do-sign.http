@@ -1,0 +1,4 @@
+POST https://mmall.baidu.com/mall/api/task/do-sign
+Cookie: BDUSS=XXX
+Content-Type: application/x-www-form-urlencoded
+Referer: https://smartapp.baidu.com/fwN7fY7gG8z8tabs1yvwS7VKsviGUXqG/1.0.9.0/page-frame.html
