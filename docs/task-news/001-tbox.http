@@ -1,0 +1,13 @@
+GET /tcbox?service=bdbox&uid=969A0F800AF2F9FFFA290E6872F10AC8A4D38395BFMDDSIMQCG&cen=uid_ua_ut&data=%7B%22appid%22%3A%221%22%2C%22dataid%22%3A%222%22%2C%22actiontype%22%3A%221%22%2C%22actionid%22%3A%221%22%2C%22actiondata%22%3A%7B%22id%22%3A%2210189%22%2C%22type%22%3A%221%22%2C%22starttime%22%3A%221551951356%22%2C%22endtime%22%3A%221551951359%22%2C%22content%22%3A%7B%22duration%22%3A%223.0%22%2C%22option%22%3A%7B%22platform%22%3A%22ios%22%2C%22network%22%3A%22%22%2C%22inBox%22%3A1%2C%22from%22%3A%22act%22%2C%22page%22%3A%22y_jifen_sign%22%2C%22source%22%3A%22personal%22%2C%22boxVersion%22%3A%2211.3.6.10%22%2C%22value%22%3A%22mini%22%7D%7D%7D%2C%22cateid%22%3A99%7D&_rnd=951359542&action=pblog&ctv=2 HTTP/1.1
+Host: mbd.baidu.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 swan/2.1.5 swan-baiduboxapp/11.3.6.10 baiduboxapp/11.3.6.10 (Baidu; P2 10.3.3)
+X-BDBoxApp-NetEngine: 3
+Cookie: BDUSS=l-VUtPWXoybVptTGFFWEZoUE81Tm1-LWVDYTdGdWdnaTVUQUJWRlNqOGUxSDVjQVFBQUFBJCQAAAAAAAAAAAEAAAC-ENsAR19obWxzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB5HV1weR1dcS1;BAIDUCUID=969A0F800AF2F9FFFA290E6872F10AC8A4D38395BFMDDSIMQCG
+Content-Type: application/x-www-form-urlencoded
+X-BD-QUIC: 1
+Accept: */*
+X-TurboNet-Info: 2.3.2172.103
+Referer: https://smartapp.baidu.com/fwN7fY7gG8z8tabs1yvwS7VKsviGUXqG/1.0.9.0/page-frame.html
+Accept-Encoding: gzip, deflate
+

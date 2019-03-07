@@ -1,0 +1,15 @@
+POST /mall/api/task/taskready HTTP/1.1
+Host: mmall.baidu.com
+Connection: keep-alive
+Content-Length: 172
+Cookie: BDUSS=l-VUtPWXoybVptTGFFWEZoUE81Tm1-LWVDYTdGdWdnaTVUQUJWRlNqOGUxSDVjQVFBQUFBJCQAAAAAAAAAAAEAAAC-ENsAR19obWxzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB5HV1weR1dcS1
+Content-Type: application/x-www-form-urlencoded
+X-BD-QUIC: 1
+X-BDBoxApp-NetEngine: 3
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 swan/2.1.5 swan-baiduboxapp/11.3.6.10 baiduboxapp/11.3.6.10 (Baidu; P2 10.3.3)
+Accept: */*
+X-TurboNet-Info: 2.3.2172.103
+Referer: https://smartapp.baidu.com/fwN7fY7gG8z8tabs1yvwS7VKsviGUXqG/1.0.9.0/page-frame.html
+Accept-Encoding: gzip, deflate
+
+task_id=3&zid=ZWLwRPnWHeHmnButmyb1DXOx2bTBRykqUg4DJdP2zYXwt69J8on5w38Mgbi0JtfN5L8jf-35Ji2EWr8Cfaxy_OQ&cuid=969A0F800AF2F9FFFA290E6872F10AC8A4D38395BFMDDSIMQCG&ver=11.3.6.10
