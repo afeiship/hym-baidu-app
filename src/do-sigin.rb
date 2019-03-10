@@ -4,6 +4,7 @@ require "net/http"
 require "logger"
 
 # https://ruby-doc.org/stdlib-2.1.3/libdoc/net/http/rdoc/Net/HTTP.html
+# https://www.cnblogs.com/wf0117/p/9039551.html
 
 config = "/Users/feizheng/git-oschina/backup-mac-files/auto-sign-security/baidu-app/config_fei.json"
 uri = URI("https://mmall.baidu.com/mall/api/task/do-sign")
