@@ -1,1 +1,0 @@
-const URL = '/Users/feizheng/git-oschina/backup-mac-files/auto-sign-security/baidu-app/config_fei.json'
