@@ -20,6 +20,6 @@
 # Learn more: http://github.com/javan/whenever
 PROJECT_PATH = "./github/hym-baidu-app"
 
-every 1.day, at: ["00:00 am", "9:30 am", "11:00 am", "13:30 pm", "21:59 pm"] do
+every 1.day, at: ["00:00 am", "9:30 am", "11:00 am", "13:30 pm", "20:00 pm"] do
   command "ruby #{PROJECT_PATH}/src/do-sigin.rb"
 end
