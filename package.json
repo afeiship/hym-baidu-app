@@ -1,0 +1,22 @@
+{
+  "name": "hym-baidu-app",
+  "version": "1.0.0",
+  "description": "Baidu app info.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "ruby ./src/do-sigin.rb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/hym-baidu-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afeiship/hym-baidu-app/issues"
+  },
+  "homepage": "https://github.com/afeiship/hym-baidu-app#readme"
+}
