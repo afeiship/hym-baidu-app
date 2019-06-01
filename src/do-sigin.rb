@@ -7,7 +7,7 @@ require "logger"
 # https://www.cnblogs.com/wf0117/p/9039551.html
 
 ROOT_PATH = File.dirname(__dir__)
-config = "/Users/feizheng/git-oschina/backup-mac-files/auto-sign-security/baidu-app/config_fei.json"
+config = "/Users/feizheng/github/macos-backup/auto-sign-security/baidu-app/config_fei.json"
 uri = URI("https://mmall.baidu.com/mall/api/task/do-sign")
 cookie = JSON.parse File.read(config)
 
