@@ -7,16 +7,20 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "ruby ./src/do-sigin.rb"
+    "start": "ruby ./src/do-sigin.rb",
+    "logs": "tail -f ./logs/do-sigin.log"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/afeiship/hym-baidu-app.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/hym-baidu-app/issues"
   },
-  "homepage": "https://github.com/afeiship/hym-baidu-app#readme"
+  "homepage": "https://github.com/afeiship/hym-baidu-app#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
 }
